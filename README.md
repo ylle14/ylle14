@@ -3,7 +3,7 @@
 ## About Me
 - 🔭 Currently immersing myself in Node.js development.
 - 👯 Actively seeking opportunities to contribute to meaningful open-source projects.
-- 💡 Currently engaged in the development of a School Portal.
+- 💡 Currently developing a School Portal.
 - 🌱 Expanding my proficiency in frontend development using React.
 - 📚 Exploring the intricacies of backend development with Redis.
 
